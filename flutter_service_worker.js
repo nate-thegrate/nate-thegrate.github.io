@@ -8,12 +8,12 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/NOTICES": "a8d1d130b9909728d724354dc06becc1",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"favicon.png": "f49c7f20a400cd8c53e3c5a7f7b03d43",
+"favicon.png": "90ae7cc4a149953bcd64f0d0ffa44913",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "7320c8507eea47095ddc0cbde2d45114",
-"/": "7320c8507eea47095ddc0cbde2d45114",
-"main.dart.js": "d355a8f396505c73f8166923d8245da7",
+"index.html": "36ed25c753adda07c8cb5c97f85a6755",
+"/": "36ed25c753adda07c8cb5c97f85a6755",
+"main.dart.js": "11e95a1fb709cb30d245b44d7e4c456e",
 "manifest.json": "6259556a756506c83897c5d76fb8571d",
 "version.json": "dd6bb879ba6558130a6fbd37d56c1b5c"
 };
