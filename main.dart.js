@@ -47774,7 +47774,7 @@ a0:function(a,b){var s,r=this,q=null,p=H.a([r.gnN(),r.gBl()],t.c8),o=D.a2G(q,q,q
 o=D.a2G(q,q,q,q,q,q,q,q,q,q,C.R.i(0,700),q,q,q,q,q,q,q)
 s=D.a70(L.aiB("Spin!",A.uB(q,q,q,q,q,q,q,q,q,q,q,18,q,C.bo,q,q,!0,q,q,q,q,q,q,q)),new F.ZE(r),o)
 o=t.af
-return new M.tN(new T.yr(C.Q,C.ef,C.eg,C.dD,q,C.eR,q,H.a([M.j2(q,new V.tH("https://public.rive.app/community/runtime-files/551-1033-fun-colors.riv",p,new F.ZF(r),q),q,q,b.ak(t.l).f.a.b-100,q,q,q),M.j2(q,new T.Cm(C.K,C.ef,C.eg,C.dD,q,C.eR,q,H.a([T.a75(M.j2(q,q,q,q,q,q,q,q)),M.j2(q,n,q,q,40,q,q,75),M.j2(q,q,q,q,q,q,q,30),M.j2(q,s,q,q,40,q,q,75),T.a75(M.j2(q,q,q,q,q,q,q,q))],o),q),q,q,100,q,q,q)],o),q),q)}}
+return new M.tN(new T.yr(C.Q,C.ef,C.eg,C.dD,q,C.eR,q,H.a([M.j2(q,new V.tH("https://public.rive.app/community/runtime-files/551-1036-fun-colors.riv",p,new F.ZF(r),q),q,q,b.ak(t.l).f.a.b-100,q,q,q),M.j2(q,new T.Cm(C.K,C.ef,C.eg,C.dD,q,C.eR,q,H.a([T.a75(M.j2(q,q,q,q,q,q,q,q)),M.j2(q,n,q,q,40,q,q,75),M.j2(q,q,q,q,q,q,q,30),M.j2(q,s,q,q,40,q,q,75),T.a75(M.j2(q,q,q,q,q,q,q,q))],o),q),q,q,100,q,q,q)],o),q),q)}}
 F.ZI.prototype={
 $0:function(){var s=this.a
 return s.aE(new F.ZH(s))},
